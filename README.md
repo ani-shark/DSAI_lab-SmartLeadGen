@@ -1,6 +1,6 @@
 # Smart Lead Generator - DSAI Lab Project
 
-This is a group project for the IIT Madras DSAI Lab. This project aims to build a smart lead generator.
+This is a group project for the IIT Madras DSAI Lab. This project aims to build Full stack Hyper Personalized Lead Generator.
 
 ## Project Structure
 
