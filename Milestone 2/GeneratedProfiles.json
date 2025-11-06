@@ -1,0 +1,1226 @@
+[
+  {
+    "objective": "Pitch our AI-driven logistics optimization platform to reduce delivery times for Instamart.",
+    "optional_context": "Reference their recent $100M funding round and focus on operational efficiency.",
+    "profile_data": {
+      "name": "Rohan Gupta",
+      "headline": "VP of Engineering at Swiggy | Scaling Food and Grocery Delivery",
+      "career_history": [
+        {
+          "role": "VP of Engineering",
+          "company": "Swiggy",
+          "duration": "2021 - Present",
+          "description": "Leading the engineering teams for Swiggy Instamart, focusing on scalable systems, real-time logistics, and inventory management."
+        }
+      ],
+      "skills": ["System Design", "Distributed Systems", "Go (Programming Language)", "Leadership", "Logistics Tech"],
+      "recent_activity": [
+        "Q3 engineering metrics are in. We've hit 99.99% uptime while cutting cloud costs by 15%. This is the result of strategic architectural decisions and ruthless prioritization. We don't just build; we execute. #Leadership #Engineering #Strategy"
+      ],
+      "company_updates": [
+        "Swiggy raises $100M in new funding round to expand Instamart operations across Tier 2 cities."
+      ],
+      "inferred_mbti": "ENTJ"
+    }
+  },
+  {
+    "objective": "Introduce our influencer-generated content (IGC) platform to scale authentic video reviews for new product lines.",
+    "optional_context": "Emphasize the 'authenticity' and 'community' aspects she values.",
+    "profile_data": {
+      "name": "Priya Mehta",
+      "headline": "Senior Content Strategist at Nykaa",
+      "career_history": [
+        {
+          "role": "Senior Content Strategist",
+          "company": "Nykaa",
+          "duration": "2019 - Present",
+          "description": "Crafting brand stories and building a community around beauty and self-expression. Leading content for our new skincare verticals."
+        }
+      ],
+      "skills": ["Content Strategy", "Brand Storytelling", "SEO", "Social Media Marketing", "Community Building"],
+      "recent_activity": [
+        "Just published a new blog post on 'The 'Why' Behind Beauty.' It's not just about products, but about self-expression and finding your unique voice. I feel so lucky to connect with our community on this deeper level. #ContentMarketing #BrandStorytelling #Values"
+      ],
+      "company_updates": [
+        "Nykaa launches a new line of sustainable, eco-friendly skincare products."
+      ],
+      "inferred_mbti": "INFP"
+    }
+  },
+  {
+    "objective": "Sell our new automated regulatory reporting (RegTech) software to streamline their compliance process.",
+    "optional_context": "Highlight the 100% accuracy and data integrity features.",
+    "profile_data": {
+      "name": "Rajesh Kumar",
+      "headline": "Senior Financial Auditor at HDFC Bank",
+      "career_history": [
+        {
+          "role": "Senior Financial Auditor",
+          "company": "HDFC Bank",
+          "duration": "2015 - Present",
+          "description": "Ensuring regulatory compliance (RBI) and internal financial controls. Specializing in risk assessment and process auditing."
+        }
+      ],
+      "skills": ["Internal Audit", "Risk Management", "Financial Compliance", "RBI Regulations", "Data Analysis"],
+      "recent_activity": [
+        "Completed the quarterly compliance audit for our retail banking division. All processes are verified and documented as per the latest RBI circular. A clean ledger is the foundation of trust. #Finance #Audit #Compliance #DetailsMatter"
+      ],
+      "company_updates": [
+        "HDFC Bank posts strong Q3 results, beating profit estimates on lower-than-expected NPAs."
+      ],
+      "inferred_mbti": "ISTJ"
+    }
+  },
+  {
+    "objective": "Offer our scalable cloud infrastructure and DevOps consulting package to support their rapid growth.",
+    "optional_context": "Mention our experience with high-transaction fintech platforms.",
+    "profile_data": {
+      "name": "Arjun Singh",
+      "headline": "Founder & CTO at FintechInnovate | Disrupting Payments",
+      "career_history": [
+        {
+          "role": "Founder & CTO",
+          "company": "FintechInnovate",
+          "duration": "2022 - Present",
+          "description": "Building the next generation of payment gateways for Indian SMEs."
+        }
+      ],
+      "skills": ["Fintech", "Product Strategy", "Node.js", "AWS", "System Architecture"],
+      "recent_activity": [
+        "Hot take: Is the traditional banking model completely obsolete? We're building something that challenges the entire premise of 'savings'. What if your money could actively work for you, 24/7, without a human in the loop? #Fintech #Disruption #Innovation"
+      ],
+      "company_updates": [
+        "FintechInnovate named one of India's top 50 emerging startups by TechCrunch."
+      ],
+      "inferred_mbti": "ENTP"
+    }
+  },
+  {
+    "objective": "Pitch our new AI-powered employee wellness and engagement platform to help TCS retain top talent.",
+    "optional_context": "Connect the pitch to her post about the 'Great Place to Work' certification.",
+    "profile_data": {
+      "name": "Meera Reddy",
+      "headline": "HR Business Partner at Tata Consultancy Services (TCS)",
+      "career_history": [
+        {
+          "role": "HR Business Partner",
+          "company": "Tata Consultancy Services",
+          "duration": "2018 - Present",
+          "description": "Partnering with business unit heads to manage the employee lifecycle, from talent acquisition to retention and development."
+        }
+      ],
+      "skills": ["Talent Management", "Employee Engagement", "HR Strategy", "Performance Management"],
+      "recent_activity": [
+        "So incredibly proud to announce our team's 'Great Place to Work' certification! This belongs to all 500,000+ members of our TCS family. Building a supportive and collaborative environment is my top priority! #Teamwork #HR #CompanyCulture #TCS"
+      ],
+      "company_updates": [
+        "TCS secures major 10-year digital transformation deal with a European banking giant."
+      ],
+      "inferred_mbti": "ESFJ"
+    }
+  },
+  {
+    "objective": "Introduce our developer-first API observability platform to help debug complex microservices faster.",
+    "optional_context": "Focus on the logical elegance and deep-dive diagnostic tools.",
+    "profile_data": {
+      "name": "Vikram Chen",
+      "headline": "Staff Software Engineer at PhonePe",
+      "career_history": [
+        {
+          "role": "Staff Software Engineer",
+          "company": "PhonePe",
+          "duration": "2019 - Present",
+          "description": "Designing and implementing high-availability, low-latency microservices for the core payments processing system."
+        }
+      ],
+      "skills": ["Java", "Spring Boot", "Microservices", "Kafka", "System Design", "Fintech"],
+      "recent_activity": [
+        "Spent the weekend debugging a race condition in our payments service. Interesting challenge. It seems the original architecture didn't account for asynchronous event scaling. Refactoring it with a message queue (Kafka) seems like the most logical path forward. The elegance of a decoupled system is always satisfying. #SoftwareArchitecture #ProblemSolving #Kafka"
+      ],
+      "company_updates": [
+        "PhonePe becomes the first app to cross 5 billion transactions in a single month on UPI."
+      ],
+      "inferred_mbti": "INTP"
+    }
+  },
+  {
+    "objective": "Propose our generative AI content creation engine to help their team scale marketing assets.",
+    "optional_context": "Connect to his recent post about the brainstorming session.",
+    "profile_data": {
+      "name": "Karan Sharma",
+      "headline": "Digital Marketing Lead at Zomato",
+      "career_history": [
+        {
+          "role": "Digital Marketing Lead",
+          "company": "Zomato",
+          "duration": "2020 - Present",
+          "description": "Driving user acquisition and retention through innovative digital campaigns, social media, and performance marketing."
+        }
+      ],
+      "skills": ["Digital Marketing", "Performance Marketing", "SEO/SEM", "Social Media", "Creative Strategy"],
+      "recent_activity": [
+        "Brainstormed so many amazing ideas with the team for the new Zomato Gold launch! What if we connected our app to... The possibilities are endless! Love the creative energy here. #Marketing #Brainstorming #Zomato"
+      ],
+      "company_updates": [
+        "Zomato rebrands its 'Pro' subscription to 'Zomato Gold' with new merchant partnerships."
+      ],
+      "inferred_mbti": "ENFP"
+    }
+  },
+  {
+    "objective": "Offer our automated cybersecurity compliance and auditing tool.",
+    "optional_context": "Highlight its capability to manage complex, multi-cloud environments like the one Infosys manages for clients.",
+    "profile_data": {
+      "name": "Aditya Verma",
+      "headline": "Principal Cloud Architect at Infosys",
+      "career_history": [
+        {
+          "role": "Principal Cloud Architect",
+          "company": "Infosys",
+          "duration": "2017 - Present",
+          "description": "Designing and implementing secure, scalable multi-cloud strategies (AWS, Azure, GCP) for Fortune 500 clients."
+        }
+      ],
+      "skills": ["Cloud Architecture", "AWS", "Azure", "GCP", "Cybersecurity", "Solution Design"],
+      "recent_activity": [
+        "The current enterprise cloud security model is fundamentally inefficient. We need to move from perimeter-based defense to a zero-trust architecture. I've drafted a new framework for our clients that solves for identity, data, and infrastructure. #CloudSecurity #ZeroTrust #Architecture"
+      ],
+      "company_updates": [
+        "Infosys partners with AWS to launch new generative AI-driven analytics platform."
+      ],
+      "inferred_mbti": "INTJ"
+    }
+  },
+  {
+    "objective": "Pitch our automated testing and QA platform to integrate into their CI/CD pipeline.",
+    "optional_context": "Reference his post on server issues and emphasize 'reliability'.",
+    "profile_data": {
+      "name": "Sameer Das",
+      "headline": "DevOps Engineer at Razorpay",
+      "career_history": [
+        {
+          "role": "DevOps Engineer",
+          "company": "Razorpay",
+          "duration": "2021 - Present",
+          "description": "Managing CI/CD pipelines, Kubernetes orchestration, and ensuring 99.999% uptime for payment services."
+        }
+      ],
+      "skills": ["DevOps", "Kubernetes", "AWS", "CI/CD", "Terraform", "Site Reliability Engineering"],
+      "recent_activity": [
+        "The payment gateway server was down for 3 minutes at 2 AM. Took the whole thing apart. Found a memory leak in a new deployment. Rolled it back, patched, and redeployed. Back online. #DevOps #SRE #ProblemSolving"
+      ],
+      "company_updates": [
+        "Razorpay launches a new 'Magic Checkout' solution to improve e-commerce conversions."
+      ],
+      "inferred_mbti": "ISTP"
+    }
+  },
+  {
+    "objective": "Propose our executive leadership coaching program for high-potential managers.",
+    "optional_context": "Connect to his mission-driven post about leadership.",
+    "profile_data": {
+      "name": "Anand Krishnan",
+      "headline": "Director of People & Culture at Cred",
+      "career_history": [
+        {
+          "role": "Director of People & Culture",
+          "company": "Cred",
+          "duration": "2019 - Present",
+          "description": "Building a high-performance, mission-driven culture. Leading talent strategy and organizational design."
+        }
+      ],
+      "skills": ["Organizational Design", "Leadership Development", "Company Culture", "Talent Strategy"],
+      "recent_activity": [
+        "Truly inspired by our team's alignment with the new mission. It's not just about building an app; it's about changing how India thinks about credit. Empowering our leaders to carry this vision is my most important role. #Leadership #Culture #Mission"
+      ],
+      "company_updates": [
+        "Cred announces entry into the 'Cred Mint' investment and P2P lending space."
+      ],
+      "inferred_mbti": "ENFJ"
+    }
+  },
+  {
+    "objective": "Pitch our AI-powered product recommendation engine to enhance UI/UX and increase AOV.",
+    "optional_context": "Reference her post on UI design and 'beauty'.",
+    "profile_data": {
+      "name": "Aisha Khan",
+      "headline": "Product Designer (UI/UX) at Myntra",
+      "career_history": [
+        {
+          "role": "Product Designer",
+          "company": "Myntra",
+          "duration": "2020 - Present",
+          "description": "Designing intuitive and beautiful user interfaces for the Myntra app, focusing on user engagement and conversion."
+        }
+      ],
+      "skills": ["UI/UX Design", "Figma", "User Research", "Interaction Design", "Design Thinking"],
+      "recent_activity": [
+        "Found some quiet time to refactor the checkout flow. It's not just about making it functional, but making the experience feel seamless and beautiful. The details matter. #DesignThinking #UIUX #ProductDesign"
+      ],
+      "company_updates": [
+        "Myntra's 'Big Fashion Festival' becomes its biggest sales event to date."
+      ],
+      "inferred_mbti": "ISFP"
+    }
+  },
+  {
+    "objective": "Sell our advanced fraud detection and risk analysis module for their lending platform.",
+    "optional_context": "Acknowledge his post on efficiency and highlight how our tool streamlines risk operations.",
+    "profile_data": {
+      "name": "Vijay Mathur",
+      "headline": "Head of Operations at Zerodha",
+      "career_history": [
+        {
+          "role": "Head of Operations",
+          "company": "Zerodha",
+          "duration": "2018 - Present",
+          "description": "Overseeing all brokerage operations, including customer onboarding (KYC), trade settlements, and risk management."
+        }
+      ],
+      "skills": ["Operations Management", "Risk Management", "Fintech", "Process Improvement", "SEBI Compliance"],
+      "recent_activity": [
+        "Process is key. Our new SOP for Q4 will streamline customer onboarding and reduce KYC verification time by 30%. Efficiency isn't just a goal; it's a standard. Read the internal memo. #Operations #Fintech #Efficiency"
+      ],
+      "company_updates": [
+        "Zerodha's user base crosses 1.5 crore, solidifying its position as India's largest stock broker."
+      ],
+      "inferred_mbti": "ESTJ"
+    }
+  },
+  {
+    "objective": "Offer our ethical AI consulting services to help build and audit their new models.",
+    "optional_context": "Directly reference her blog post on 'Ethical AI'.",
+    "profile_data": {
+      "name": "Kavita Iyer",
+      "headline": "Senior Data Scientist, AI Ethics at Wipro",
+      "career_history": [
+        {
+          "role": "Senior Data Scientist, AI Ethics",
+          "company": "Wipro",
+          "duration": "2019 - Present",
+          "description": "Developing frameworks for responsible AI, focusing on fairness, transparency, and bias detection in machine learning models."
+        }
+      ],
+      "skills": ["Data Science", "Machine Learning", "Python", "AI Ethics", "Natural Language Processing (NLP)"],
+      "recent_activity": [
+        "Wrote a blog post on building ethical AI. It's so important that our technology reflects our values and serves all communities equitably. The 'why' behind the algorithm is what matters most. #AIForGood #EthicalAI #DataScience"
+      ],
+      "company_updates": [
+        "Wipro commits $1B to developing its 'ai360' ecosystem and training all 250,000 employees in AI."
+      ],
+      "inferred_mbti": "INFJ"
+    }
+  },
+  {
+    "objective": "Introduce our rapid prototyping and user testing platform to help validate their new ideas faster.",
+    "optional_context": "Position it as a tool to help him build and pitch his ideas even quicker.",
+    "profile_data": {
+      "name": "Ravi Patel",
+      "headline": "Product Manager at Urban Company",
+      "career_history": [
+        {
+          "role": "Product Manager",
+          "company": "Urban Company",
+          "duration": "2021 - Present",
+          "description": "Leading the 'Home Services' vertical, focusing on new product launches and improving provider-side app experience."
+        }
+      ],
+      "skills": ["Product Management", "Agile Methodologies", "User Research", "Go-to-Market Strategy", "SQL"],
+      "recent_activity": [
+        "Spotted a market gap in the home-cleaning vertical. Built a quick prototype over the weekend. Pitched it this morning to leadership. Approved. Let's build. #StartupLife #ProductManagement #Action"
+      ],
+      "company_updates": [
+        "Urban Company expands its operations to 10 new cities in India and Southeast Asia."
+      ],
+      "inferred_mbti": "ESTP"
+    }
+  },
+  {
+    "objective": "Pitch our automated compliance training module for BFSI.",
+    "optional_context": "Emphasize how it helps protect client data, referencing her post.",
+    "profile_data": {
+      "name": "Sunita Desai",
+      "headline": "Learning and Development Manager at ICICI Bank",
+      "career_history": [
+        {
+          "role": "L&D Manager",
+          "company": "ICICI Bank",
+          "duration": "2017 - Present",
+          "description": "Designing and delivering training programs for new hires and existing employees, focusing on banking regulations and customer service."
+        }
+      ],
+      "skills": ["Learning & Development", "Corporate Training", "Instructional Design", "Compliance Training"],
+      "recent_activity": [
+        "Just a reminder to all banking staff: please complete your mandatory compliance training by EOD Friday. It's crucial for protecting our data and our clients. Thank you for your cooperation! #Training #Compliance #HR"
+      ],
+      "company_updates": [
+        "ICICI Bank launches a new digital banking platform, 'iMobile Pay 2.0', with enhanced security features."
+      ],
+      "inferred_mbti": "ISFJ"
+    }
+  },
+  {
+    "objective": "Propose our multi-channel marketing attribution software to help them optimize their ad spend.",
+    "optional_context": "Highlight the 'bottom-line results' and 'data-driven' aspects.",
+    "profile_data": {
+      "name": "Deepika Singh",
+      "headline": "Director of Marketing at Lenskart | Building a D2C Brand",
+      "career_history": [
+        {
+          "role": "Director of Marketing",
+          "company": "Lenskart",
+          "duration": "2019 - Present",
+          "description": "Leading a team of 30+ marketers across performance, brand, and retention. Responsible for P&L and user growth."
+        }
+      ],
+      "skills": ["Marketing Strategy", "P&L Management", "Performance Marketing", "Brand Building", "Team Leadership"],
+      "recent_activity": [
+        "Our Q3 marketing results are in, and we've shattered our customer acquisition targets. This isn't luck; it's a testament to a data-driven strategy, relentless execution, and a team that refuses to settle. We identified the new market, pivoted our creative, and dominated. On to Q4. #MarketingStrategy #Leadership #Results"
+      ],
+      "company_updates": [
+        "Lenskart opens its 1500th retail store in India, successfully blending online and offline (O2O) strategy."
+      ],
+      "inferred_mbti": "ENTJ"
+    }
+  },
+  {
+    "objective": "Introduce our new data visualization and BI tool to help their team find insights faster.",
+    "optional_context": "Position it as a tool that's more precise and logical than competitors.",
+    "profile_data": {
+      "name": "Sanjay Rao",
+      "headline": "Lead Data Analyst at Flipkart",
+      "career_history": [
+        {
+          "role": "Lead Data Analyst",
+          "company": "Flipkart",
+          "duration": "2018 - Present",
+          "description": "Analyzing customer behavior and sales data to inform product strategy. Building dashboards and models to predict trends."
+        }
+      ],
+      "skills": ["Data Analysis", "SQL", "Tableau", "Python (Pandas)", "E-commerce", "Statistics"],
+      "recent_activity": [
+        "Interesting deep-dive into our 'Big Billion Days' sales data. Found a key anomaly in the correlation between discount percentages and cart abandonment rates. The initial hypothesis was wrong. The data suggests a different user behavior entirely. Need to investigate the causal model further. #DataScience #Analytics #Ecommerce"
+      ],
+      "company_updates": [
+        "Flipkart's 'Big Billion Days' sale clocks in over $5B in GMV, setting a new record."
+      ],
+      "inferred_mbti": "INTP"
+    }
+  },
+  {
+    "objective": "Pitch our automated employee onboarding and HRIS platform.",
+    "optional_context": "Emphasize how it frees up the HR team to focus on culture and people, not paperwork.",
+    "profile_data": {
+      "name": "Ananya Sharma",
+      "headline": "Senior HR Manager at Wipro",
+      "career_history": [
+        {
+          "role": "Senior HR Manager",
+          "company": "Wipro",
+          "duration": "2016 - Present",
+          "description": "Managing the end-to-end HR function for the digital services business unit, focusing on employee relations and talent retention."
+        }
+      ],
+      "skills": ["Human Resources", "Employee Relations", "Talent Management", "HRIS", "Onboarding"],
+      "recent_activity": [
+        "What an amazing virtual onboarding session for our new batch of graduates! So much energy and enthusiasm. Welcome to the Wipro family, everyone! We are so excited to have you. #HR #Onboarding #CompanyCulture"
+      ],
+      "company_updates": [
+        "Wipro mandates a hybrid work-from-office policy, with employees required to be in 3 days a week."
+      ],
+      "inferred_mbti": "ESFP"
+    }
+  },
+  {
+    "objective": "Offer our strategic consulting services for supply chain decarbonization.",
+    "optional_context": "Reference his post on the 'future' and 'new frameworks'.",
+    "profile_data": {
+      "name": "Vikram Ahuja",
+      "headline": "Head of Strategy & Sustainability at Tata Steel",
+      "career_history": [
+        {
+          "role": "Head of Strategy & Sustainability",
+          "company": "Tata Steel",
+          "duration": "2020 - Present",
+          "description": "Developing long-term corporate strategy, M&A, and leading the company's ESG and decarbonization initiatives."
+        }
+      ],
+      "skills": ["Corporate Strategy", "Sustainability", "ESG", "M&A", "Market Analysis"],
+      "recent_activity": [
+        "The future of steel is green. The current blast furnace model is unsustainable. I've been developing a new framework for migrating our production to Electric Arc Furnaces (EAF) powered by renewable energy. This is a 20-year plan, and it's the only logical path forward. #Sustainability #Strategy #ESG"
+      ],
+      "company_updates": [
+        "Tata Steel announces a £1.25 billion investment to build a new Electric Arc Furnace at its UK Port Talbot plant."
+      ],
+      "inferred_mbti": "INTJ"
+    }
+  },
+  {
+    "objective": "Sell our low-code/no-code platform to help them build internal tools faster.",
+    "optional_context": "Connect to his post on building prototypes and taking action.",
+    "profile_data": {
+      "name": "Rohan Mehra",
+      "headline": "Lead Product Manager at Reliance Jio",
+      "career_history": [
+        {
+          "role": "Lead Product Manager",
+          "company": "Reliance Jio",
+          "duration": "2019 - Present",
+          "description": "Leading product development for the MyJio app, focusing on user growth and integration of new services like JioCinema."
+        }
+      ],
+      "skills": ["Product Management", "Agile", "User Growth", "A/B Testing", "Mobile Applications"],
+      "recent_activity": [
+        "The market won't wait. Saw a need for a better internal dashboard for our streaming metrics. Got the team together, built a quick prototype in 48 hours, and deployed it. Stop talking, start building. #ProductManagement #Action #Jio"
+      ],
+      "company_updates": [
+        "JioCinema breaks global streaming records during the IPL cricket finals."
+      ],
+      "inferred_mbti": "ESTP"
+    }
+  },
+  {
+    "objective": "Pitch our hyper-personalization engine for their e-commerce platform.",
+    "optional_context": "Reference their 'creative' approach and how our tool can generate unique user journeys.",
+    "profile_data": {
+      "name": "Nisha Agarwal",
+      "headline": "Marketing Manager at AJIO (Reliance Retail)",
+      "career_history": [
+        {
+          "role": "Marketing Manager",
+          "company": "AJIO",
+          "duration": "2021 - Present",
+          "description": "Running 360-degree marketing campaigns for new brand launches on the AJIO platform."
+        }
+      ],
+      "skills": ["Digital Marketing", "Brand Management", "Campaign Management", "Social Media Marketing"],
+      "recent_activity": [
+        "Had so many inspiring ideas from our last creative brainstorm! We're planning a new campaign that connects fashion with personal identity. What if we built a 'style-finder' quiz that's actually... fun? The potential is amazing! #Marketing #Creativity #Fashion"
+      ],
+      "company_updates": [
+        "AJIO onboards 50 new international fashion brands to its 'AJIO Luxe' platform."
+      ],
+      "inferred_mbti": "ENFP"
+    }
+  },
+  {
+    "objective": "Offer our fractional CFO and financial modeling services for their portfolio startups.",
+    "optional_context": "Focus on the 'proven systems' and 'accuracy' of our financial models.",
+    "profile_data": {
+      "name": "Amit Gupta",
+      "headline": "Venture Partner at Sequoia Capital India",
+      "career_history": [
+        {
+          "role": "Venture Partner",
+          "company": "Sequoia Capital India",
+          "duration": "2018 - Present",
+          "description": "Investing in early-stage SaaS and Fintech startups. Providing strategic guidance on finance and operations."
+        }
+      ],
+      "skills": ["Venture Capital", "Financial Modeling", "DueDiligence", "SaaS", "Fintech", "Startups"],
+      "recent_activity": [
+        "Completed our Q3 portfolio review. All financial reports have been audited and benchmarked. It's critical that our founders have accurate data and proven systems for financial tracking. Discipline is the bedrock of growth. #VC #Finance #Startups"
+      ],
+      "company_updates": [
+        "Sequoia Capital India (now Peak XV Partners) announces a new $2.85B fund for India and Southeast Asia."
+      ],
+      "inferred_mbti": "ISTJ"
+    }
+  },
+  {
+    "objective": "Introduce our AI-powered sales enablement tool to help their team prioritize leads and close deals faster.",
+    "optional_context": "Frame it as a 'strategic weapon' for his sales team.",
+    "profile_data": {
+      "name": "Harish Iyer",
+      "headline": "Chief Revenue Officer (CRO) at L&T Infotech (LTI)",
+      "career_history": [
+        {
+          "role": "Chief Revenue Officer",
+          "company": "L&T Infotech",
+          "duration": "2020 - Present",
+          "description": "Leading the global sales, marketing, and customer success organizations. Responsible for all revenue-generating activities."
+        }
+      ],
+      "skills": ["Sales Leadership", "Go-to-Market Strategy", "P&L Management", "Enterprise Sales", "Digital Transformation"],
+      "recent_activity": [
+        "Q3 was another record-breaking quarter. Our sales organization didn't just meet the target; we executed a flawless strategic plan to enter three new markets. Vision without execution is hallucination. Proud of the team. #Sales #Leadership #Results"
+      ],
+      "company_updates": [
+        "LTI and Mindtree complete their merger to form 'LTIMindtree', creating a new scaled-up IT services provider."
+      ],
+      "inferred_mbti": "ENTJ"
+    }
+  },
+  {
+    "objective": "Propose our 'Ethical AI in Healthcare' workshop and certification for their R&D team.",
+    "optional_context": "Connect with her post about patient impact and 'why'.",
+    "profile_data": {
+      "name": "Dr. Sunita Rao",
+      "headline": "AI/ML Research Lead at HealthifyMe",
+      "career_history": [
+        {
+          "role": "AI/ML Research Lead",
+          "company": "HealthifyMe",
+          "duration": "2019 - Present",
+          "description": "Leading research on predictive models for health outcomes and personalized nutrition using user-generated data."
+        }
+      ],
+      "skills": ["Machine Learning", "Deep Learning", "Python", "Healthcare AI", "Data Privacy"],
+      "recent_activity": [
+        "It's not just about the accuracy of our models, but the real-world impact on our users' health. Connecting with that 'why' – helping someone avoid diabetes, not just predicting a metric – is what truly matters. #AIForGood #HealthTech #DataScience"
+      ],
+      "company_updates": [
+        "HealthifyMe's AI-powered 'Ria' chatbot crosses 10 million user interactions."
+      ],
+      "inferred_mbti": "INFJ"
+    }
+  },
+  {
+    "objective": "Offer our automated UI testing service that uses visual regression to catch bugs.",
+    "optional_context": "Position it as a tool that appreciates the 'art' and 'feel' of design, not just the code.",
+    "profile_data": {
+      "name": "Rohan Bhatia",
+      "headline": "Senior UI/UX Designer at Cred",
+      "career_history": [
+        {
+          "role": "Senior UI/UX Designer",
+          "company": "Cred",
+          "duration": "2020 - Present",
+          "description": "Designing delightful and intuitive user experiences for the Cred app. Obsessed with pixel-perfect design and micro-interactions."
+        }
+      ],
+      "skills": ["UI/UX Design", "Figma", "Prototyping", "User-Centered Design", "Micro-interactions"],
+      "recent_activity": [
+        "Spent the morning crafting a new button animation. It's subtle, but it just 'feels' right. The aesthetics of an app are just as important as the functionality. #Design #UIUX #Craft"
+      ],
+      "company_updates": [
+        "Cred launches 'Cred Garage', a new platform for vehicle management and insurance."
+      ],
+      "inferred_mbti": "ISFP"
+    }
+  },
+  {
+    "objective": "Pitch our B2B account-based marketing (ABM) platform to help them target enterprise clients.",
+    "optional_context": "Connect to his 'process-oriented' post and show how our platform creates a clear, repeatable process for high-value sales.",
+    "profile_data": {
+      "name": "Gaurav Verma",
+      "headline": "Head of Enterprise Sales at HCLTech",
+      "career_history": [
+        {
+          "role": "Head of Enterprise Sales (North America)",
+          "company": "HCLTech",
+          "duration": "2018 - Present",
+          "description": "Leading the sales team for the US market, focusing on large-scale digital transformation and cloud services deals."
+        }
+      ],
+      "skills": ["Enterprise Sales", "Sales Strategy", "Key Account Management", "Cloud Services", "Team Leadership"],
+      "recent_activity": [
+        "The Q3 sales process review is complete. We've implemented a new 5-stage pipeline review process that will increase forecast accuracy by 25%. A disciplined process is the only way to achieve repeatable success. #Sales #Process #Leadership"
+      ],
+      "company_updates": [
+        "HCLTech wins a $2.1 billion managed services deal with Verizon Business."
+      ],
+      "inferred_mbti": "ESTJ"
+    }
+  },
+  {
+    "objective": "Introduce our AI-powered code refactoring and technical debt analysis tool.",
+    "optional_context": "Directly reference his post on legacy systems and the need for a 'logical' solution.",
+    "profile_data": {
+      "name": "Alok Jain",
+      "headline": "Principal Engineer at MakeMyTrip",
+      "career_history": [
+        {
+          "role": "Principal Engineer",
+          "company": "MakeMyTrip",
+          "duration": "2017 - Present",
+          "description": "Architecting the next-gen booking platform. Focusing on performance, scalability, and modernizing legacy codebases."
+        }
+      ],
+      "skills": ["System Architecture", "Java", "Microservices", "Performance Tuning", "Technical Leadership"],
+      "recent_activity": [
+        "Spent the week analyzing our legacy hotel booking service. The coupling is too tight, and it's creating performance bottlenecks. The most logical solution is to decompose it into smaller, domain-driven microservices. The technical debt has to be addressed. #SoftwareArchitecture #LegacyCode #Refactoring"
+      ],
+      "company_updates": [
+        "MakeMyTrip partners with the Indian government to promote domestic tourism."
+      ],
+      "inferred_mbti": "INTP"
+    }
+  },
+  {
+    "objective": "Sell our advanced threat intelligence platform to protect their banking infrastructure.",
+    "optional_context": "Mention the 'hands-on' nature of our tool, which allows his team to proactively hunt for threats.",
+    "profile_data": {
+      "name": "Kiran Bedi",
+      "headline": "Cybersecurity Analyst (Red Team) at Axis Bank",
+      "career_history": [
+        {
+          "role": "Cybersecurity Analyst",
+          "company": "Axis Bank",
+          "duration": "2021 - Present",
+          "description": "Performing penetration testing and vulnerability assessments on the bank's digital infrastructure. Simulating real-world attacks."
+        }
+      ],
+      "skills": ["Penetration Testing", "Cybersecurity", "Red Teaming", "Metasploit", "Network Security"],
+      "recent_activity": [
+        "Found a critical vulnerability in a third-party payment API. Gained root access in under an hour. Patched and reported. Always fun to break things to make them stronger. #CyberSecurity #RedTeam #Hacking"
+      ],
+      "company_updates": [
+        "Axis Bank launches a new co-branded credit card with Samsung, integrating UPI payments."
+      ],
+      "inferred_mbti": "ISTP"
+    }
+  },
+  {
+    "objective": "Propose our leadership development and communication program for their technical leads.",
+    "optional_context": "Frame it as a way to help their tech talent 'inspire' and 'lead' teams, not just manage projects.",
+    "profile_data": {
+      "name": "Prakash Nair",
+      "headline": "Director, Engineering Management at Google India",
+      "career_history": [
+        {
+          "role": "Director, Engineering Management",
+          "company": "Google",
+          "duration": "2015 - Present",
+          "description": "Leading multiple engineering teams for Google Pay in the NBU (Next Billion Users) market. Focusing on building and mentoring leaders."
+        }
+      ],
+      "skills": ["Engineering Management", "Leadership", "Product Strategy", "Distributed Systems", "Mobile Payments"],
+      "recent_activity": [
+        "What truly inspires me is seeing a junior engineer grow into a confident tech lead. My job isn't just to ship products; it's to build the next generation of leaders who will build products that help millions. #Leadership #Mentorship #Google"
+      ],
+      "company_updates": [
+        "Google Pay (GPay) expands its partnership with NPCI to offer new credit-on-UPI features in India."
+      ],
+      "inferred_mbti": "ENFJ"
+    }
+  },
+  {
+    "objective": "Offer our diversity and inclusion (D&I) consulting and workshops.",
+    "optional_context": "Connect to her post on building an inclusive 'family' and 'community'.",
+    "profile_data": {
+      "name": "Rina Joseph",
+      "headline": "Chief People Officer at Upstox",
+      "career_history": [
+        {
+          "role": "Chief People Officer",
+          "company": "Upstox",
+          "duration": "2020 - Present",
+          "description": "Scaling the company culture during hyper-growth. Leading all HR functions including talent, D&I, and employee experience."
+        }
+      ],
+      "skills": ["Human Resources", "Company Culture", "Talent Acquisition", "Diversity & Inclusion (D&I)"],
+      "recent_activity": [
+        "We just celebrated our annual 'Upstox Family Day'! It was wonderful to see everyone come together. Building a company where everyone feels a sense of belonging and community is my number one goal. #HR #Culture #Team"
+      ],
+      "company_updates": [
+        "Upstox surpasses 1 crore users, becoming one of India's fastest-growing brokerage firms."
+      ],
+      "inferred_mbti": "ESFJ"
+    }
+  },
+  {
+    "objective": "Introduce our AI-powered competitive intelligence tool.",
+    "optional_context": "Show how it can help him challenge existing market assumptions and find new 'angles'.",
+    "profile_data": {
+      "name": "Sameer Tandon",
+      "headline": "Director of Strategy at OYO",
+      "career_history": [
+        {
+          "role": "Director of Strategy",
+          "company": "OYO",
+          "duration": "2019 - Present",
+          "description": "Identifying new market opportunities, analyzing competitive landscapes, and advising leadership on long-term growth bets."
+        }
+      ],
+      "skills": ["Corporate Strategy", "Market Analysis", "Competitive Intelligence", "Financial Modeling", "M&A"],
+      "recent_activity": [
+        "Interesting debate in our strategy meeting today. Is the traditional hotel aggregation model dead? What if we pivot to a 'prop-tech' management model entirely? Challenging the core assumptions is the only way to innovate. #Strategy #Innovation #TravelTech"
+      ],
+      "company_updates": [
+        "OYO files for its IPO again, focusing on profitability and a smaller, more optimized portfolio."
+      ],
+      "inferred_mbti": "ENTP"
+    }
+  },
+  {
+    "objective": "Sell our data governance and privacy (GDPR/DPDP) compliance suite.",
+    "optional_context": "Reference his post on 'details' and 'protecting data' as key selling points.",
+    "profile_data": {
+      "name": "Arun Kumar",
+      "headline": "IT Compliance & Risk Manager at Tech Mahindra",
+      "career_history": [
+        {
+          "role": "IT Compliance Manager",
+          "company": "Tech Mahindra",
+          "duration": "2016 - Present",
+          "description": "Ensuring all IT systems and client data handling adhere to international standards (ISO 27001, GDPR) and the new Indian DPDP Act."
+        }
+      ],
+      "skills": ["IT Compliance", "Risk Management", "ISO 27001", "GDPR", "Data Privacy", "IT Audit"],
+      "recent_activity": [
+        "With India's new DPDP Act coming into effect, I've spent the last month diligently reviewing all our data processing agreements. The details are critical. Protecting our clients' data is a non-negotiable responsibility. #Compliance #DataPrivacy #DPDP"
+      ],
+      "company_updates": [
+        "Tech Mahindra announces a new Center of Excellence (CoE) for Quantum Computing."
+      ],
+      "inferred_mbti": "ISFJ"
+    }
+  },
+  {
+    "objective": "Pitch our automated ad-creative generation platform to help scale their campaigns.",
+    "optional_context": "Highlight the 'fun' and 'energetic' creative templates.",
+    "profile_data": {
+      "name": "Pooja Shah",
+      "headline": "Performance Marketing Specialist at Policybazaar",
+      "career_history": [
+        {
+          "role": "Performance Marketing Specialist",
+          "company": "Policybazaar",
+          "duration": "2022 - Present",
+          "description": "Managing paid acquisition campaigns on Google and Facebook. Optimizing for CPL and CPC."
+        }
+      ],
+      "skills": ["Performance Marketing", "Google Ads", "Facebook Ads", "SEM", "Data Analysis"],
+      "recent_activity": [
+        "What an amazing offsite with the marketing team! So much energy and so many new ideas. Loved connecting with everyone. Back to hitting those CPL targets! #Marketing #Team #WorkLife"
+      ],
+      "company_updates": [
+        "Policybazaar's parent company, PB Fintech, reports its first-ever quarterly profit."
+      ],
+      "inferred_mbti": "ESFP"
+    }
+  },
+  {
+    "objective": "Offer our strategic consulting on entering the Tier 3 and Tier 4 markets.",
+    "optional_context": "Acknowledge his post on 'challenging' the current model and present this as a new, disruptive idea.",
+    "profile_data": {
+      "name": "Aditya Rao",
+      "headline": "Co-Founder & CEO at 'RuralFin' (Startup)",
+      "career_history": [
+        {
+          "role": "Co-Founder & CEO",
+          "company": "RuralFin",
+          "duration": "2021 - Present",
+          "description": "Building a fintech platform to provide micro-loans and financial services to rural India."
+        }
+      ],
+      "skills": ["Startups", "Fintech", "Product Strategy", "Fundraising", "Leadership"],
+      "recent_activity": [
+        "Everyone is building for the top 10% of India. We're challenging that. The real, untapped market is the 500 million people in rural India. The problem is complex, but the idea is simple: financial inclusion for all. #Fintech #Impact #Startup"
+      ],
+      "company_updates": [
+        "RuralFin raises $5M in a seed round led by Accel to expand its agent network."
+      ],
+      "inferred_mbti": "ENTP"
+    }
+  },
+  {
+    "objective": "Sell our AI-powered supply chain visibility and risk management platform.",
+    "optional_context": "Emphasize 'data integrity' and 'process' to align with his ISTJ preferences.",
+    "profile_data": {
+      "name": "Rajesh Nair",
+      "headline": "Supply Chain Director at Sun Pharma",
+      "career_history": [
+        {
+          "role": "Supply Chain Director",
+          "company": "Sun Pharma",
+          "duration": "2015 - Present",
+          "description": "Managing end-to-end supply chain, from raw material procurement to distribution of finished pharmaceutical goods. Ensuring compliance."
+        }
+      ],
+      "skills": ["Supply Chain Management", "Logistics", "Procurement", "Pharmaceuticals", "SAP", "Process Optimization"],
+      "recent_activity": [
+        "Just completed our bi-annual audit of our distribution network. All shipment and temperature logs are 100% verified. In pharmaceuticals, there is no room for error. Process and accuracy are paramount. #SupplyChain #Pharma #Logistics"
+      ],
+      "company_updates": [
+        "Sun Pharma receives USFDA approval for a new generic drug, opening up a $1B market."
+      ],
+      "inferred_mbti": "ISTJ"
+    }
+  },
+  {
+    "objective": "Introduce our AI-driven customer sentiment analysis tool to help them improve their user feedback loop.",
+    "optional_context": "Connect to her post on 'empathy' and understanding the 'why' behind user behavior.",
+    "profile_data": {
+      "name": "Meera Krishnan",
+      "headline": "Head of User Research at PhonePe",
+      "career_history": [
+        {
+          "role": "Head of User Research",
+          "company": "PhonePe",
+          "duration": "2019 - Present",
+          "description": "Leading the user research team to uncover deep insights about user behavior, needs, and pain points."
+        }
+      ],
+      "skills": ["User Research", "Usability Testing", "Qualitative Research", "Design Thinking", "Empathy"],
+      "recent_activity": [
+        "Conducted a deeply insightful user interview session today. It's not just about what the user clicks, but *why*. Understanding their financial anxieties and hopes is key to building a product that truly serves them. Empathy is the core of good design. #UserResearch #DesignThinking #Fintech"
+      ],
+      "company_updates": [
+        "PhonePe expands into financial services, launching new insurance and mutual fund products."
+      ],
+      "inferred_mbti": "INFP"
+    }
+  },
+  {
+    "objective": "Offer our automated Kubernetes cost-optimization and right-sizing platform.",
+    "optional_context": "Reference his 'hands-on' post and show how our tool gives engineers direct control over resource management.",
+    "profile_data": {
+      "name": "Karthik Reddy",
+      "headline": "Site Reliability Engineer (SRE) at Cred",
+      "career_history": [
+        {
+          "role": "SRE",
+          "company": "Cred",
+          "duration": "2021 - Present",
+          "description": "Building and maintaining the Kubernetes-based infrastructure for Cred's services. Focusing on automation, observability, and reliability."
+        }
+      ],
+      "skills": ["SRE", "Kubernetes", "Go (Programming Language)", "AWS", "Prometheus", "Terraform"],
+      "recent_activity": [
+        "The K8s cluster was having scaling issues. Dug into the HPA and found a misconfigured metric. Tweaked the YAML, pushed the fix, and watched the pods scale perfectly. Nothing more satisfying than a well-tuned system. #Kubernetes #SRE #DevOps"
+      ],
+      "company_updates": [
+        "Cred's new 'Cred Mint' P2P lending feature crosses 1000 Cr in AUM."
+      ],
+      "inferred_mbti": "ISTP"
+    }
+  },
+  {
+    "objective": "Pitch our design system management tool to help them maintain UI consistency at scale.",
+    "optional_context": "Align with his post about 'beauty' and 'craft'.",
+    "profile_data": {
+      "name": "Arjun Varma",
+      "headline": "Lead Product Designer at Swiggy",
+      "career_history": [
+        {
+          "role": "Lead Product Designer",
+          "company": "Swiggy",
+          "duration": "2019 - Present",
+          "description": "Leading the design for the core food delivery experience. Building and maintaining the 'Spoon' design system."
+        }
+      ],
+      "skills": ["Product Design", "UI/UX", "Figma", "Design Systems", "User Research", "Interaction Design"],
+      "recent_activity": [
+        "Just shipped a new update to our design system. It's not just a component library; it's the language we use to build. Loved crafting the new color palettes and motion principles. It's art and science. #DesignSystems #UIUX #Craft"
+      ],
+      "company_updates": [
+        "Swiggy launches 'Swiggy One', a unified subscription plan for all its services including Instamart and Dineout."
+      ],
+      "inferred_mbti": "ISFP"
+    }
+  },
+  {
+    "objective": "Sell our advanced AI-driven talent sourcing platform to find passive candidates.",
+    "optional_context": "Highlight how it can help him build his team 'efficiently' and 'systematically'.",
+    "profile_data": {
+      "name": "Siddharth Jain",
+      "headline": "Head of Talent Acquisition at Infosys",
+      "career_history": [
+        {
+          "role": "Head of Talent Acquisition (India)",
+          "company": "Infosys",
+          "duration": "2018 - Present",
+          "description": "Responsible for hiring strategy and execution for all business units in India, managing a team of 100+ recruiters."
+        }
+      ],
+      "skills": ["Talent Acquisition", "Recruiting", "HR Strategy", "Employer Branding", "Leadership"],
+      "recent_activity": [
+        "Our Q3 hiring targets have been met and documented. We've implemented a new structured interview process that has improved our quality-of-hire metric by 15%. A clear, repeatable process is essential for scaling talent. #Recruiting #HR #Process"
+      ],
+      "company_updates": [
+        "Infosys opens a new campus in Pune, plans to hire 5,000 new engineers."
+      ],
+      "inferred_mbti": "ESTJ"
+    }
+  },
+  {
+    "objective": "Propose our global leadership and cross-cultural communication training for their executive team.",
+    "optional_context": "Connect to her post on 'building bridges' and her people-focused approach.",
+    "profile_data": {
+      "name": "Anjali Deshpande",
+      "headline": "Chief Human Resources Officer (CHRO) at LTIMindtree",
+      "career_history": [
+        {
+          "role": "CHRO",
+          "company": "LTIMindtree",
+          "duration": "2023 - Present",
+          "description": "Leading the post-merger cultural integration of LTI and Mindtree. Responsible for global HR strategy and talent management."
+        }
+      ],
+      "skills": ["Human Resources", "Mergers & Acquisitions (M&A)", "Cultural Integration", "Organizational Design", "Leadership"],
+      "recent_activity": [
+        "So proud of our teams from LTI and Mindtree coming together for our first global town hall. My focus is on building bridges and creating one unified, collaborative family. People are the heart of this integration. #HR #Culture #Merger #Teamwork"
+      ],
+      "company_updates": [
+        "LTIMindtree posts strong Q3 results, showing successful synergy from the merger."
+      ],
+      "inferred_mbti": "ESFJ"
+    }
+  },
+  {
+    "objective": "Introduce our AI-powered 'digital twin' platform for manufacturing process optimization.",
+    "optional_context": "Frame it as a long-term, 'strategic' move to create a more 'efficient' system, appealing to his INTJ nature.",
+    "profile_data": {
+      "name": "Prakash Rao",
+      "headline": "Chief Digital Officer (CDO) at Tata Motors",
+      "career_history": [
+        {
+          "role": "CDO",
+          "company": "Tata Motors",
+          "duration": "2019 - Present",
+          "description": "Leading the Industry 4.0 and digital transformation initiatives for Tata's manufacturing and supply chain."
+        }
+      ],
+      "skills": ["Digital Transformation", "Industry 4.0", "IoT", "Data Analytics", "Corporate Strategy"],
+      "recent_activity": [
+        "The current manufacturing process is full of inefficiencies. We are designing a 10-year digital transformation roadmap. The future is a fully autonomous 'dark factory' run by AI and IoT. This is the only way to compete globally. #DigitalTransformation #Industry40 #Strategy"
+      ],
+      "company_updates": [
+        "Tata Motors announces a $2B investment in its new electric vehicle (EV) subsidiary, 'Tata.ev'."
+      ],
+      "inferred_mbti": "INTJ"
+    }
+  },
+  {
+    "objective": "Pitch our unified 'omnichannel' customer support platform (voice, chat, email).",
+    "optional_context": "Focus on the 'action-oriented' and 'problem-solving' nature of the tool for their support agents.",
+    "profile_data": {
+      "name": "Varun Agarwal",
+      "headline": "Head of Customer Experience at Flipkart",
+      "career_history": [
+        {
+          "role": "Head of Customer Experience",
+          "company": "Flipkart",
+          "duration": "2020 - Present",
+          "description": "Leading the customer support and success teams. Focused on reducing resolution time and improving NPS."
+        }
+      ],
+      "skills": ["Customer Experience (CX)", "Customer Support", "Operations Management", "NPS", "Team Leadership"],
+      "recent_activity": [
+        "A customer had a major delivery issue. Got on the call myself, escalated to the hub manager, and got the package delivered in 2 hours. Stop analyzing, start solving. Customers want action, not apologies. #CX #CustomerService #Action"
+      ],
+      "company_updates": [
+        "Flipkart introduces a new 30-day 'no-questions-asked' return policy for its 'Flipkart Assured' products."
+      ],
+      "inferred_mbti": "ESTP"
+    }
+  },
+  {
+    "objective": "Offer our 'Ethical ML' consulting to help them build fair and unbiased models.",
+    "optional_context": "Directly reference his post on 'values' and building 'responsible' tech.",
+    "profile_data": {
+      "name": "Rohan Deshmukh",
+      "headline": "Lead AI Engineer at 'Finclusion' (Social Impact Fintech)",
+      "career_history": [
+        {
+          "role": "Lead AI Engineer",
+          "company": "Finclusion",
+          "duration": "2021 - Present",
+          "description": "Building machine learning models for credit scoring for under-served populations. Focusing on ethical AI and bias mitigation."
+        }
+      ],
+      "skills": ["Machine Learning", "Python", "AI Ethics", "Fintech", "Risk Modeling"],
+      "recent_activity": [
+        "Wrote a new internal paper on 'Building Responsible AI'. It's not enough for our credit models to be accurate; they must be *fair*. We have a deep responsibility to ensure our technology reflects our values and promotes financial inclusion. #AI #Ethics #Fintech #Impact"
+      ],
+      "company_updates": [
+        "Finclusion (social impact startup) is selected for the Bill & Melinda Gates Foundation's 'Financial Inclusion' cohort."
+      ],
+      "inferred_mbti": "INFJ"
+    }
+  },
+  {
+    "objective": "Introduce our new creative brainstorming and mind-mapping software for hybrid teams.",
+    "optional_context": "Connect to her 'inspiring' and 'collaborative' post.",
+    "profile_data": {
+      "name": "Aisha Baig",
+      "headline": "Innovation Lead at Marico (Innovation Foundation)",
+      "career_history": [
+        {
+          "role": "Innovation Lead",
+          "company": "Marico",
+          "duration": "2019 - Present",
+          "description": "Leading open innovation challenges and incubating new product ideas in the CPG and wellness space."
+        }
+      ],
+      "skills": ["Innovation Management", "Design Thinking", "Product Development", "Corporate Venture"],
+      "recent_activity": [
+        "Had an amazing brainstorming session with our new cohort of startups! The energy was incredible. So many possibilities for sustainable packaging. What if we could use seaweed...? Love collaborating with such passionate people! #Innovation #Sustainability #Collaboration"
+      ],
+      "company_updates": [
+        "Marico's Parachute brand enters the 'D2C' space with a new line of wellness oils."
+      ],
+      "inferred_mbti": "ENFP"
+    }
+  },
+  {
+    "objective": "Sell our data lakehouse platform (e.g., Databricks/Snowflake competitor).",
+    "optional_context": "Emphasize the 'logical' and 'decoupled' architecture, which will appeal to his INTP nature.",
+    "profile_data": {
+      "name": "Kunal Shah",
+      "headline": "Lead Data Engineer at Hotstar (Disney+ Hotstar)",
+      "career_history": [
+        {
+          "role": "Lead Data Engineer",
+          "company": "Disney+ Hotstar",
+          "duration": "2018 - Present",
+          "description": "Building and maintaining the petabyte-scale data pipelines for streaming analytics and user personalization."
+        }
+      ],
+      "skills": ["Data Engineering", "Apache Spark", "Python", "SQL", "AWS", "Big Data", "Kafka"],
+      "recent_activity": [
+        "The current data architecture is a mess of coupled ETL jobs. It's logically inefficient. I'm exploring a lakehouse architecture, separating storage (S3/Delta) from compute (Spark). This seems like a much cleaner, more precise system for handling our scale. #DataEngineering #Spark #BigData"
+      ],
+      "company_updates": [
+        "Disney+ Hotstar sets a new concurrent streaming record during the ICC Cricket World Cup."
+      ],
+      "inferred_mbti": "INTP"
+    }
+  },
+  {
+    "objective": "Offer our personalized learning experience platform (LXP) for their employees.",
+    "optional_context": "Highlight how it helps employees 'feel supported' and 'grow', aligning with her ISFJ post.",
+    "profile_data": {
+      "name": "Priya Sharma",
+      "headline": "Manager, Employee Development at HCLTech",
+      "career_history": [
+        {
+          "role": "Manager, Employee Development",
+          "company": "HCLTech",
+          "duration": "2017 - Present",
+          "description": "Managing upskilling and reskilling programs for the cloud services division. Curating learning paths for new technologies."
+        }
+      ],
+      "skills": ["Learning & Development", "Talent Development", "Instructional Design", "EdTech"],
+      "recent_activity": [
+        "Just wanted to share a quick note to remind everyone of the new certification programs we've made available. Please take the time to invest in your skills. We're here to support your growth! #Learning #Development #HCL"
+      ],
+      "company_updates": [
+        "HCLTech partners with Google Cloud to launch a new GenAI CoE for enterprise clients."
+      ],
+      "inferred_mbti": "ISFJ"
+    }
+  },
+  {
+    "objective": "Pitch our AI-powered 'Voice of the Customer' analytics platform.",
+    "optional_context": "Show how it can help him 'inspire' his product teams with real, mission-driven user feedback.",
+    "profile_data": {
+      "name": "Arun Patnaik",
+      "headline": "Group Product Manager at BYJU'S",
+      "career_history": [
+        {
+          "role": "Group Product Manager",
+          "company": "BYJU'S",
+          "duration": "2019 - Present",
+          "description": "Leading a team of PMs focused on the core learning app. Defining the product vision and roadmap."
+        }
+      ],
+      "skills": ["Product Management", "EdTech", "Product Strategy", "Team Leadership", "User Growth"],
+      "recent_activity": [
+        "What an inspiring week visiting schools and talking to students who use our app. Seeing the 'aha!' moment on a child's face... that's our mission. It's not just about features; it's about changing the future of education in India. #EdTech #Mission #ProductManagement"
+      ],
+      "company_updates": [
+        "BYJU'S announces a strategic restructuring to focus on its core 'BYJU'S - The Learning App' product."
+      ],
+      "inferred_mbti": "ENFJ"
+    }
+  },
+  {
+    "objective": "Propose our automated event management and marketing platform.",
+    "optional_context": "Connect to her post about the 'energy' of events and show how our tool handles the 'boring' logistics.",
+    "profile_data": {
+      "name": "Neha Singh",
+      "headline": "Events Marketing Manager at Salesforce India",
+      "career_history": [
+        {
+          "role": "Events Marketing Manager",
+          "company": "Salesforce",
+          "duration": "2019 - Present",
+          "description": "Organizing and executing large-scale marketing events like 'Salesforce World Tour' for the Indian market."
+        }
+      ],
+      "skills": ["Event Management", "Field Marketing", "Marketing Strategy", "Lead Generation"],
+      "recent_activity": [
+        "That's a wrap on Salesforce World Tour Mumbai! What an incredible event. The energy from our customers and partners was just amazing! Loved connecting with everyone. Now, time to plan the next one! #Events #Marketing #Salesforce"
+      ],
+      "company_updates": [
+        "Salesforce announces deeper integration of its 'Einstein GPT' generative AI into its core platform."
+      ],
+      "inferred_mbti": "ESFP"
+    }
+  },
+  {
+    "objective": "Sell our 'Digital Shelf' analytics software to track product visibility and competitor pricing.",
+    "optional_context": "Position it as a 'strategic' tool for 'dominating' the e-commerce landscape.",
+    "profile_data": {
+      "name": "Vikram Rathore",
+      "headline": "E-commerce Head at Hindustan Unilever (HUL)",
+      "career_history": [
+        {
+          "role": "Head of E-commerce (India)",
+          "company": "Hindustan Unilever",
+          "duration": "2020 - Present",
+          "description": "Driving HUL's e-commerce strategy and sales across all platforms (Amazon, Flipkart, Blinkit). Managing P&L for the online channel."
+        }
+      ],
+      "skills": ["E-commerce", "P&L Management", "Digital Marketing", "CPG", "Sales Strategy", "Key Account Management"],
+      "recent_activity": [
+        "E-commerce isn't just a channel; it's the battlefield. Our Q3 results show we've successfully gained 5 points of market share in the 'quick commerce' segment. This was a strategic, data-driven move to dominate the digital shelf. On to Q4. #Ecommerce #Strategy #Leadership #CPG"
+      ],
+      "company_updates": [
+        "HUL reports a 15% growth in its e-commerce channel, now contributing to over 10% of total sales."
+      ],
+      "inferred_mbti": "ENTJ"
+    }
+  },
+  {
+    "objective": "Pitch our automated CI/CD security testing (DAST/SAST) tool.",
+    "optional_context": "Frame it as a 'hands-on' tool that lets him 'break' things in the pipeline *before* they get to production.",
+    "profile_data": {
+      "name": "Rajat Kumar",
+      "headline": "Security Engineer (AppSec) at Paytm",
+      "career_history": [
+        {
+          "role": "Security Engineer",
+          "company": "Paytm",
+          "duration": "2021 - Present",
+          "description": "Integrating security into the CI/CD pipeline. Performing static and dynamic analysis of code and running vulnerability scans."
+        }
+      ],
+      "skills": ["Application Security (AppSec)", "DevSecOps", "CI/CD", "SAST", "DAST", "Python"],
+      "recent_activity": [
+        "Found a nasty SQL injection vulnerability in a new feature branch. Blocked the PR. Took the code apart, showed the dev how to fix it with parameterized queries. Always better to find the hole yourself before someone else does. #AppSec #DevSecOps #Security"
+      ],
+      "company_updates": [
+        "Paytm focuses on core payments business and lending partnerships after RBI restrictions on its payments bank."
+      ],
+      "inferred_mbti": "ISTP"
+    }
+  },
+  {
+    "objective": "Offer our fractional 'Chief Marketing Officer' services for their portfolio companies.",
+    "optional_context": "Show how this 'solves the problem' for their founders who are 'all action, no strategy'.",
+    "profile_data": {
+      "name": "Anil Bhat",
+      "headline": "General Partner at Blume Ventures",
+      "career_history": [
+        {
+          "role": "General Partner",
+          "company": "Blume Ventures",
+          "duration": "2017 - Present",
+          "description": "Investing in and mentoring early-stage B2B SaaS and deep-tech startups. Serving on multiple boards."
+        }
+      ],
+      "skills": ["Venture Capital", "Startups", "SaaS", "DeepTech", "Go-to-Market Strategy", "Board Member"],
+      "recent_activity": [
+        "So many of our early-stage founders are action-oriented, which is great. But they jump right to tactics without a strategy. They're all 'let's run Facebook ads' without knowing their ICP or positioning. We need to solve this problem pragmatically. #VC #Startups #Strategy"
+      ],
+      "company_updates": [
+        "Blume Ventures announces the final close of its new $250M 'Fund IV' to back early-stage Indian startups."
+      ],
+      "inferred_mbti": "ESTP"
+    }
+  }
+]
