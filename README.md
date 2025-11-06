@@ -16,3 +16,5 @@ This repository is organized into milestones. All relevant code, documentation, 
 -   [ani-shark (Anirudh Penumatcha)](https://github.com/ani-shark)
 -   [pavan99590 (Banoth Pavan)](https://github.com/pavan99590)
 -   [sumitgangwani (Sumit Gangwani)](https://github.com/sumitgangwani)
+-   [daarisameen (Daaris Ameen)](http://github.com/daarisameen)
+-   [ivarunsai5 (Varun Sai)](https://github.com/ivarunsai5)
