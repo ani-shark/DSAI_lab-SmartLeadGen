@@ -10,6 +10,7 @@ This repository is organized into milestones. All relevant code, documentation, 
 -   **milestone 2**: Dataset preparation
 -   **milestone 3**: Model architecture
 -   **milestone 4**: Model Training
+-   **milestone 5**: Model Evaluation
 
 ## Team Members
 
