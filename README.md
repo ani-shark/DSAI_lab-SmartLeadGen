@@ -11,6 +11,12 @@ This repository is organized into milestones. All relevant code, documentation, 
 -   **milestone 3**: Model architecture
 -   **milestone 4**: Model Training
 -   **milestone 5**: Model Evaluation
+-   **milestone 6**: Model Deployment
+
+Pretrained models deployed on hugging face.
+
+- [**Personality classification model**](https://huggingface.co/spaces/PavanB99Indian/mbti-classifier) 
+- [**Email generation model**](https://huggingface.co/anishark/LEAD_EMAIL_GENERATION_MODEL)
 
 ## Team Members
 
