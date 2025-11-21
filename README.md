@@ -12,7 +12,7 @@ This repository is organized into milestones. All relevant code, documentation, 
 -   **milestone 4**: Model Training
 -   **milestone 5**: Model Evaluation
 -   **milestone 6**: Model Deployment
--   **final submissions**
+-   **final documents**
 
 Pretrained models deployed on hugging face.
 
